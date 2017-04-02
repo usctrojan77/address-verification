@@ -1,0 +1,22 @@
+{
+    "name": "alldigitalrewards/addressverification",
+    "description": "Checks the address passed to it against USPS endpoint for validity purposes",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "sushant",
+            "email": "svengurlekar@alldigitalrewards.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {"ADR\\": "src/"}
+    }
+}
