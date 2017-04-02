@@ -1,5 +1,5 @@
 {
-    "name": "alldigitalrewards/addressverification",
+    "name": "adr/addressverification",
     "description": "Checks the address passed to it against USPS endpoint for validity purposes",
     "type": "library",
     "require-dev": {

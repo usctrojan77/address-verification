@@ -1,6 +1,9 @@
 ## Address Verification
  This library can be used for address verification purposes. It uses the USPS endpoint to query for addresses.
 
+## Install
+composer require adr/addressverification
+
 ## Usage
 Example
 
